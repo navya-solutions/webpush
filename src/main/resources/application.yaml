@@ -1,0 +1,3 @@
+app-config:
+  serverPublicKeyPath: key.public
+  serverPrivateKeyPath: key.private
